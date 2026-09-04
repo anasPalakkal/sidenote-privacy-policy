@@ -1,6 +1,6 @@
 Privacy Policy for Sidenote
 
-Effective date: [date]
+Effective date: 02/09/2026
 
 Sidenote does not collect, transmit, sell, or share any user data with
 Google, the developer, or any third party.
@@ -41,4 +41,4 @@ Changes to this policy
 If this policy changes, the "Effective date" above will be updated.
 
 Contact
-[your email]
+anaspalakkalwork@gmail.com
