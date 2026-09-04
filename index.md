@@ -41,4 +41,4 @@ Changes to this policy
 If this policy changes, the "Effective date" above will be updated.
 
 Contact
-anaspalakkalwork@gmail.com
+mapshome.official@gmail.com
